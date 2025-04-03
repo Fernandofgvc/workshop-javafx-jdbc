@@ -32,3 +32,6 @@ nbbuild/
 dist/
 nbdist/
 
+# Configurações locais do VS Code
+.vscode/
+
